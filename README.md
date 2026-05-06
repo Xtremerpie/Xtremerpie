@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xtremerpie/Xtremerpie/main/xtremerpie-banner.png" />
+  <img src="https://raw.githubusercontent.com/Xtremerpie/Xtremerpie/blob/main/Xtremerpie.png" />
 </p>
 
 <p align="center">
