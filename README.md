@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Game+Developer;AI+Builder;Open+World+Creator;Xtremerpie" />
+
 # 👋 Hey, I'm Xtremerpie
 
 🚀 Self-taught Developer | Building Real Projects  
