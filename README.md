@@ -65,8 +65,7 @@
 
 # 🌐 Connect With Me
 
-- YouTube: (Add your channel)
-- Instagram: (Add your page)
+- Discord - xtremerpie6817
 
 ---
 
