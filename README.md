@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hey+I'm+Rajveer;Game+Developer;Building+AI+Assistant;Creating+Open+World+Game;Xtremerpie" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hey+I'm+Xtremerpie;Game+Developer;Building+AI+Assistant;Creating+Open+World+Game;Xtremerpie" />
 </p>
 
 # 👋 Hey, I'm Xtremerpie
