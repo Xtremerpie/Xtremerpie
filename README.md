@@ -1,38 +1,75 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xtremerpie/Xtremerpie/main/Xtremerpie.png" />
+  <img src="https://raw.githubusercontent.com/Xtremerpie/Xtremerpie/main/Xtremerpie.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hey+I'm+Xtremerpie;Game+Developer;Building+AI+Assistant;Creating+Open+World+Game;Xtremerpie" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hey+I'm+Xtremerpie;Game+Developer;AI+Builder;Creating+Open+World+Games;Future+Innovator" />
 </p>
 
-# 👋 Hey, I'm Xtremerpie
+---
 
-🚀 Self-taught Developer | Building Real Projects  
-🎮 Creating Open World Games using Python (Ursina)  
-🤖 Developing AI Assistant to control devices  
-🧠 Exploring Automation, AI & Smart Systems  
+# 👋 Who Am I?
+
+🚀 Self-taught Developer building real-world projects  
+🎮 Focused on Open World Game Development (Python + Ursina)  
+🤖 Creating AI systems that interact with real devices  
+⚡ Passionate about Automation, AI & Smart Tech  
 
 ---
 
-## 🔥 Current Focus
-- 🎮 Open World Game (Low-End Optimized)
-- 🤖 Voice Controlled AI Assistant
-- ⚡ Automation Tools & Experiments
+# 🔥 Current Mission
+
+- 🎮 Building a **Low-End Optimized Open World Game**
+- 🤖 Developing a **Voice-Controlled AI Assistant**
+- ⚡ Creating **Automation Tools for real use**
 
 ---
 
-## 🛠 Tech Stack
-- Python 🐍
-- Ursina Engine 🎮
-- OpenCV 👁️
+# 🧠 Tech Arsenal
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ursina](https://img.shields.io/badge/Ursina-GameEngine-blue?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge)
+
+</p>
 
 ---
 
-## 📈 Goal
-> Build powerful projects that actually work in real life.
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xtremerpie&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Xtremerpie&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I don't just learn coding — I build things people can use.
+# 🏆 Featured Projects
+
+🚧 (Work in Progress — Building something big)
+
+- 🎮 Open World Game Engine
+- 🤖 AI Assistant (Voice + Control)
+- ⚡ Automation Toolkit
+
+---
+
+# 📈 Growth Mindset
+
+> I don't just learn coding — I build systems that solve real problems.
+
+---
+
+# 🌐 Connect With Me
+
+- YouTube: (Add your channel)
+- Instagram: (Add your page)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Xtremerpie&color=blue" />
+</p>
