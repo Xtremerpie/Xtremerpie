@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I'm Xtremerpie
 
-<!--
-**Xtremerpie/Xtremerpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Self-taught Developer | Building Real Projects  
+🎮 Creating Open World Games using Python (Ursina)  
+🤖 Developing AI Assistant to control devices  
+🧠 Exploring Automation, AI & Smart Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+- 🎮 Open World Game (Low-End Optimized)
+- 🤖 Voice Controlled AI Assistant
+- ⚡ Automation Tools & Experiments
+
+---
+
+## 🛠 Tech Stack
+- Python 🐍
+- Ursina Engine 🎮
+- OpenCV 👁️
+
+---
+
+## 📈 Goal
+> Build powerful projects that actually work in real life.
+
+---
+
+## ⚡ Fun Fact
+I don't just learn coding — I build things people can use.
